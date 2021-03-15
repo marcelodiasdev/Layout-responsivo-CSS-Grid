@@ -1,2 +1,15 @@
 # Layout-responsivo-CSS-Grid
- Layout responsivo com CSS Grid e Object-fit
+ 
+
+ 
+<img src="Imagens/gif.gif" > 
+
+
+--- 
+
+<h1> Tecnologias usadas: </h1>
+
+ - HTML5
+ - CSS3 
+
+ ---
